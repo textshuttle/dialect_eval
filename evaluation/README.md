@@ -14,7 +14,7 @@ cp -r ntrex-128 $HOME/.mt-metrics-eval/mt-metrics-eval-v2/
 The evaluation of the metrics with `mtm-metrics-eval` on our resources can be reproduced by running 
 
 ```
-python3 evaluate.py -f path/to/evaluation/folder
+python3 evaluate.py -f .
 ```
 
 In order to reproduce the preprocessing necessary to bring the data into an adequate format for `mtm-metrics-eval`, run the following commands:
