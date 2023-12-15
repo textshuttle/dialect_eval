@@ -17,3 +17,5 @@ We used [this specific version](https://github.com/Unbabel/COMET/blob/8503fe7996
 ## Data
 
 The data we used for the continued LM pre-training can be downloaded from [here](https://icosys.ch/swisscrawl).
+
+The links to the task fine-tuning data (DA) can be found in the official [COMET repo](https://github.com/Unbabel/COMET/blob/master/data/README.md).
