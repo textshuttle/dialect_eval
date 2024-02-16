@@ -17,3 +17,5 @@ We used [this specific version](https://github.com/Unbabel/COMET/blob/8503fe7996
 ## Data
 
 The data we used for the continued LM pre-training can be downloaded from [here](https://icosys.ch/swisscrawl).
+
+The data we used for the task fine-tuning can be downloaded from [here](https://files.ifi.uzh.ch/cl/dialect-eval). It contains the direct assessment (DA) data from the official [COMET repo](https://github.com/Unbabel/COMET/blob/master/data/README.md) and the noised version of this data set, which we used for the fine-tuning with character-level noise.
